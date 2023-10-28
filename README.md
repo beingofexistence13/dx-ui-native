@@ -26,4 +26,19 @@ Contributions are what make the open-source community such an amazing place to l
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
+## Currently working on:
+
+| Rank | UI Library               | Description                                                                                                                                                                                               |
+|------|--------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1    | React Native Paper       | A cross-platform UI library that follows the Material Design guidelines. It provides a wide range of components, including buttons, text inputs, images, and more.                                        |
+| 2    | React Native Elements    | A UI library that provides a set of common components with a native look and feel. It is easy to use and customize, and it is compatible with both Android and iOS.                                       |
+| 3    | NativeBase               | A UI library that provides a set of high-quality components that are easy to use and customize. It also includes a number of features to help you build complex UIs, such as theming and layout.          |
+| 4    | UI Kitten                | A UI library that provides a set of lightweight and customizable components. It is also designed to be easy to use and extend.                                                                            |
+| 5    | React Native UI Kitten   | A UI library that provides a set of components that are designed to be accessible and inclusive. It is also easy to use and customize.                                                                    |
+| 6    | Shoutem UI               | A UI library that provides a set of components that are designed to be beautiful and performant. It is also easy to use and customize.                                                                    |
+| 7    | Lottie for React Native  | A library for animating JSON files in React Native applications. It is easy to use and provides a number of features to help you create engaging and informative animations.                              |
+| 8    | React Native Gifted Chat | A library for adding chat functionality to React Native applications. It is easy to use and provides a number of features to help you create a chat experience that is both user-friendly and performant. |
+| 9    | React Native Maps        | A library for adding maps to React Native applications. It is easy to use and provides a number of features to help you create maps that are both informative and interactive.                            |
+| 10   | Ant Design Mobile RN     | A UI library that provides a set of components that follow the Ant Design guidelines. It is a good choice for apps that require a polished and consistent design language.                                |
+
 Join us in revolutionizing native app UI design! Let's code joyfully! 😄🎈🎊
